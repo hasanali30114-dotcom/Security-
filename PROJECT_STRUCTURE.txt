@@ -1,0 +1,23 @@
+A-D-App/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── app/
+│   ├── build.gradle.kts
+│   ├── proguard-rules.pro
+│   └── src/main/
+│       ├── AndroidManifest.xml
+│       ├── java/com/example/adapp/
+│       │   ├── MainActivity.kt
+│       │   ├── NetworkHelper.kt
+│       │   └── ADBackgroundService.kt
+│       └── res/
+│           ├── layout/activity_main.xml
+│           └── values/
+│               ├── strings.xml
+│               └── themes.xml
+├── build.gradle.kts
+├── gradle.properties
+├── settings.gradle.kts
+├── README.md
+└── PROJECT_STRUCTURE.txt
